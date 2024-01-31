@@ -111,9 +111,9 @@
       </div>
     </div>
 
-    <div class="go-login-box-footer">
+    <!-- <div class="go-login-box-footer">
       <layout-footer></layout-footer>
-    </div>
+    </div> -->
   </div>
 </template>
 
